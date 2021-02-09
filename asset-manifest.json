@@ -1,0 +1,13 @@
+{
+  "main.css": "/deployfirebaseapp/static/css/main.edd9f737.chunk.css",
+  "main.js": "/deployfirebaseapp/static/js/main.dfe2ee6d.chunk.js",
+  "main.js.map": "/deployfirebaseapp/static/js/main.dfe2ee6d.chunk.js.map",
+  "static/js/1.2f94ec56.chunk.js": "/deployfirebaseapp/static/js/1.2f94ec56.chunk.js",
+  "static/js/1.2f94ec56.chunk.js.map": "/deployfirebaseapp/static/js/1.2f94ec56.chunk.js.map",
+  "runtime~main.js": "/deployfirebaseapp/static/js/runtime~main.96800b1e.js",
+  "runtime~main.js.map": "/deployfirebaseapp/static/js/runtime~main.96800b1e.js.map",
+  "static/css/main.edd9f737.chunk.css.map": "/deployfirebaseapp/static/css/main.edd9f737.chunk.css.map",
+  "index.html": "/deployfirebaseapp/index.html",
+  "precache-manifest.64cab4deb97e54485279d5e6431cc0ee.js": "/deployfirebaseapp/precache-manifest.64cab4deb97e54485279d5e6431cc0ee.js",
+  "service-worker.js": "/deployfirebaseapp/service-worker.js"
+}
